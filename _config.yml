@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Victor Martinelli"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Victor Martinelli"
 description              : &description "personal description"
 url                      : https://victor-martinelli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -94,7 +94,7 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/victor.martinelli.3388"
+  facebook         : "victor.martinelli.3388"
   foursquare       :
   github           : "victor-martinelli"
   google_plus      :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/victor-martinelli/"
+  linkedin         : "victor-martinelli/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
